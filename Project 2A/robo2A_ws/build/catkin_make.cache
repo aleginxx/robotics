@@ -1,0 +1,2 @@
+mymobibot/mymobibot_control:mymobibot/mymobibot_description:mymobibot/mymobibot_gazebo:robo2_mobile
+-DCATKIN_DEVEL_PREFIX=/home/zoegk/robo2A_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zoegk/robo2A_ws/install -G Unix Makefiles

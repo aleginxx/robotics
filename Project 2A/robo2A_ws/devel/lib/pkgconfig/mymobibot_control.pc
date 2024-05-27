@@ -1,0 +1,8 @@
+prefix=/home/zoegk/robo2A_ws/devel
+
+Name: mymobibot_control
+Description: Description of mymobibot_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

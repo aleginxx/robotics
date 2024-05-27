@@ -1,0 +1,8 @@
+prefix=/home/zoegk/robo2A_ws/devel
+
+Name: robo2_mobile
+Description: Description of robo2_mobile
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime
